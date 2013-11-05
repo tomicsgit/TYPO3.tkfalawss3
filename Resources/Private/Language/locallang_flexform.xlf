@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-05-27T14:06:47Z" product-name="tkfalawss3">
+		<header/>
+		<body>
+			<trans-unit id="driverConfiguration.region">
+				<source>Region</source>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.bucket">
+				<source>Bucket</source>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.key">
+				<source>Key</source>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.secretKey">
+				<source>Secret key</source>
+			</trans-unit>
+			<trans-unit id="driverConfiguration.publicBaseUrl">
+				<source>Public base URL</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

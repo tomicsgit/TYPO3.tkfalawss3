@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2013-05-27T14:06:47Z" product-name="tkfalawss3">
+		<header/>
+		<body>
+			<trans-unit id="constants.customsubcategory.resources">
+				<source>Resources</source>
+			</trans-unit>
+
+			<trans-unit id="constants.composerPath">
+				<source>Composer path:The absolute path to your composer packages, leading to but excluding the "vendors" folder, including trailing slash.<br />
+If left empty, PATH_site . 'typo3conf/' will be used.</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
