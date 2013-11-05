@@ -31,7 +31,6 @@ namespace ThomasKieslich\Tkfalawss3\Driver;
  * Driver for Amazon Simple Storage Service (S3).
  *
  * @todo Handle exceptions, write tests
- * @todo Enable thumbnail generation
  */
 class AmazonS3Driver extends \TYPO3\CMS\Core\Resource\Driver\AbstractDriver {
 
